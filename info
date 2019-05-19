@@ -1,0 +1,9 @@
+Video on creating assistant
+https://www.youtube.com/watch?v=2eoudIBVW9w
+
+needs:
+
+sudo apt-get mpg123
+
+pip install gTTs
+
